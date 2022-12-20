@@ -18,3 +18,7 @@
 - **Overlay Blend:** 
 
     ![Multiplication&Subtraction](https://github.com/opendatasurgeon/tgaImageProcessing/blob/main/description%20images/overlay.jpg)
+    
+- **Add Pixels (Green):** 
+
+    ![AddGreen](https://github.com/opendatasurgeon/tgaImageProcessing/blob/main/description%20images/addgreen.jpg)
