@@ -22,3 +22,7 @@
 - **Add Pixels (Green):** 
 
     ![AddGreen](https://github.com/opendatasurgeon/tgaImageProcessing/blob/main/description%20images/addgreen.jpg)
+
+- **Scale (Red & Blue):** 
+
+    ![Scale](https://github.com/opendatasurgeon/tgaImageProcessing/blob/main/description%20images/scaleredblue.jpg)
