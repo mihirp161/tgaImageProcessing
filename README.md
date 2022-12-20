@@ -30,3 +30,7 @@
 - **Extract (Blue):** 
 
     ![Extract Blue](https://github.com/opendatasurgeon/tgaImageProcessing/blob/main/description%20images/extractblue.jpg)
+    
+- **Extract (Green):** 
+
+    ![Extract Green](https://github.com/opendatasurgeon/tgaImageProcessing/blob/main/description%20images/extractgreen.jpg)
