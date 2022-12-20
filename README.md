@@ -26,3 +26,7 @@
 - **Scale (Red & Blue):** 
 
     ![Scale](https://github.com/opendatasurgeon/tgaImageProcessing/blob/main/description%20images/scaleredblue.jpg)
+
+- **Extract (Blue):** 
+
+    ![Extract Blue](https://github.com/opendatasurgeon/tgaImageProcessing/blob/main/description%20images/extract_blue.jpg)
