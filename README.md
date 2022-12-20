@@ -10,3 +10,7 @@
 - **Screen Blend:** 
 
     ![Screen](https://github.com/opendatasurgeon/tgaImageProcessing/blob/main/description%20images/screen.jpg)
+
+- **Multiplication & Subtraction Blend:** 
+
+    ![Multiplication&Subtraction](https://github.com/opendatasurgeon/tgaImageProcessing/blob/main/description%20images/multiplication_subtraction.jpg)
