@@ -9,4 +9,4 @@
 
 - **Screen Blend:** 
 
-    ![Screen](https://github.com/opendatasurgeon/tgaImageProcessing/blob/main/description%20images/multiplyScreen.jpg)
+    ![Screen](https://github.com/opendatasurgeon/tgaImageProcessing/blob/main/description%20images/screen.jpg)
