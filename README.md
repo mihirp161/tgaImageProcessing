@@ -34,3 +34,7 @@
 - **Extract (Green):** 
 
     ![Extract Green](https://github.com/opendatasurgeon/tgaImageProcessing/blob/main/description%20images/extractgreen.jpg)
+
+- **Extract (Red):** 
+
+    ![Extract Red](https://github.com/opendatasurgeon/tgaImageProcessing/blob/main/description%20images/extractred.jpg)
