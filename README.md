@@ -42,3 +42,7 @@
 - **Extract (Red):** 
 
     ![Extract Red](https://github.com/opendatasurgeon/tgaImageProcessing/blob/main/description%20images/extractred.jpg)
+
+- **Quadrant:** 
+
+    ![ImageQuad](https://github.com/opendatasurgeon/tgaImageProcessing/blob/main/description%20images/quad.jpg)
